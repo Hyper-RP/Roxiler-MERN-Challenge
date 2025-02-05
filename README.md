@@ -1,4 +1,4 @@
-# **Roxiler System Assessment - Frontend & Backend**
+# **Roxiler MERN Challenge - Frontend & Backend**
 
 This project involves building both **frontend** and **backend** systems to manage and visualize product transactions. The application supports **search**, **pagination**, and **data visualization** through bar and pie charts.
 
@@ -56,11 +56,3 @@ This project involves building both **frontend** and **backend** systems to mana
 
 ---
 
-### **Run Commands**
-
-#### **Backend Setup**
-
-```bash
-cd mern-backend
-npm install
-npx nodemon app.js
