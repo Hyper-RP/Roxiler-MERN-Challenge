@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory, you can run:
+
 ---
 
 ### **Run Commands**
@@ -14,4 +16,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 cd ../mern-frontend
 npm install
 npm start
-
